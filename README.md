@@ -1,4 +1,4 @@
-# Cache: In Memory Cache Library
+# Cachew: In Memory Cache Library
 
 ## Introduction
 This library provides an in-memory cache with support for various eviction policies such as Least Recently Used (LRU), Least Frequently Used (LFU), First-In-First-Out (FIFO), and Last-In-First-Out (LIFO). It allows storing key-value pairs in memory and provides methods to retrieve, store, delete items, and clear the cache.
